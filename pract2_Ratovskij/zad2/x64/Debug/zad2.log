@@ -1,0 +1,3 @@
+﻿  zad2.cpp
+C:\Users\st310-02\Desktop\pract_RatovskijM\pract2_Ratovskij\zad2\zad2.cpp(6,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  zad2.vcxproj -> C:\Users\st310-02\Desktop\pract_RatovskijM\pract2_Ratovskij\x64\Debug\zad2.exe

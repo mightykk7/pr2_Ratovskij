@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (pract2_Ratovskij.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  zad1.cpp
+C:\Users\st310-02\Desktop\pract_RatovskijM\pract2_Ratovskij\pract2_Ratovskij\zad1.cpp(7,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  pract2_Ratovskij.vcxproj -> C:\Users\st310-02\Desktop\pract_RatovskijM\pract2_Ratovskij\x64\Debug\zad1.exe
